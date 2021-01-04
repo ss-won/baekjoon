@@ -1,0 +1,73 @@
+# LEVEL : Silver
+
+## Silver 등급별 문제 풀이 모음
+
+> 숫자가 적을 수록 높은 단계입니다. 등급은 수시로 바뀌기 때문에 정확한 등급은 문제를 클릭하여 확인해주세요 :).
+
+- S1
+  - 11403(경로 찾기) [문제](https://www.acmicpc.net/problem/11403) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/11403.cpp)
+  - 11286(절댓값 힙) [문제](https://www.acmicpc.net/problem/11286) | [py](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/11286.py)
+  - 1927(최소 힙) [문제](https://www.acmicpc.net/problem/1927) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/1927.cpp)
+  - 3005(크로스워드 퍼즐 쳐다보기) [문제](https://www.acmicpc.net/problem/3005) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/3005.cpp)
+  - 2178(미로 탐색) [문제](https://www.acmicpc.net/problem/2178) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/2178.cpp)
+  - 2667(단지번호붙이기) [문제](https://www.acmicpc.net/problem/2667) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/2667.cpp)
+  - 4889(안정적인 문자열) [문제](https://www.acmicpc.net/problem/4889) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/4889.cpp)
+  - 7576(토마토) [문제](https://www.acmicpc.net/problem/7576) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/7576.cpp)
+  - 1074(Z) [문제](https://www.acmicpc.net/problem/1074) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/1074.cpp)
+  - 5639(이진 검색 트리) [문제](https://www.acmicpc.net/problem/5639) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/5639.cpp)
+  - 1991(트리 순회) [문제](https://www.acmicpc.net/problem/1991) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/1991.cpp)
+  - 1149(RGB거리) [문제](https://www.acmicpc.net/problem/1149) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/1149.cpp)
+  - 1932(정수 삼각형) [문제](https://www.acmicpc.net/problem/1932) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/1932.cpp)
+  - 10844(쉬운 계단 수) [문제](https://www.acmicpc.net/problem/10844) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/10844.cpp)
+  - 2156(포도주 시식) [문제](https://www.acmicpc.net/problem/2156) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/2156.cpp)
+  - 16925(문자열 추측) [문제](https://www.acmicpc.net/problem/16925) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/16925.cpp)
+- S2
+  - 16500(문자열 판별) [문제](https://www.acmicpc.net/problem/16500) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/16500.cpp)
+  - 11724(연결 요소의 개수) [문제](https://www.acmicpc.net/problem/11724) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/11724.cpp)
+  - 11279(최대 힙) [문제](https://www.acmicpc.net/problem/11279) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/11279.cpp)
+  - 1012(유기농 배추) [문제](https://www.acmicpc.net/problem/1012) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/1012.cpp)
+  - 1260(DFS와 BFS) [문제](https://www.acmicpc.net/problem/1260) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/1260.cpp)
+  - 1931(회의실 배정) [문제](https://www.acmicpc.net/problem/1931) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/1931.cpp)
+  - 1929(소수 구하기) [문제](https://www.acmicpc.net/problem/1929) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/1929.cpp)
+  - 1780(종이의 개수) [문제](https://www.acmicpc.net/problem/1780) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/1780.cpp)
+  - 5430(AC) [문제](https://www.acmicpc.net/problem/5430) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/5430.cpp)
+  - 10552(DOM) [문제](https://www.acmicpc.net/problem/10552) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/10552.cpp)
+  - 1141(접두사) [문제](https://www.acmicpc.net/problem/1141) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/1141.cpp)
+  - 11053(가장 긴 증가하는 부분 수열) [문제](https://www.acmicpc.net/problem/11053) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/11053.cpp)
+  - 11725(트리의 부모 찾기) [문제](https://www.acmicpc.net/problem/11725) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/11725.cpp)
+  - 1912(연속합) [문제](https://www.acmicpc.net/problem/1912) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/1912.cpp)
+  - 18870(좌표 압축) [문제](https://www.acmicpc.net/problem/18870) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/18870.cpp)
+  - 2841(외계인의 기타 연주) [문제](https://www.acmicpc.net/problem/2841) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/2841.cpp)
+- S3
+
+  - 1449(수리공 항승) [문제](https://www.acmicpc.net/problem/1449) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/1449.cpp)
+  - 1463(1로 만들기) [문제](https://www.acmicpc.net/problem/1463) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/1463.cpp)
+  - 1966(프린터 큐) [문제](https://www.acmicpc.net/problem/1966) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/1966.cpp)
+  - 9095(1,2,3 더하기) [문제](https://www.acmicpc.net/problem/9095) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/9095.cpp)
+  - 14594(동방 프로젝트(Small)) [문제](https://www.acmicpc.net/problem/14594) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/14594.cpp)
+  - 1003(피보나치 함수) [문제](https://www.acmicpc.net/problem/1003) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/1003.cpp)
+  - 1904(01타일) [문제](https://www.acmicpc.net/problem/1904) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/1904.cpp)
+  - 9461(파도반 수열) [문제](https://www.acmicpc.net/problem/9461) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/9461.cpp)
+  - 2579(계단 오르기) [문제](https://www.acmicpc.net/problem/2579) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/2579.cpp)
+  - 2606(바이러스) [문제](https://www.acmicpc.net/problem/2606) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/2606.cpp)
+  - 11726(2×n 타일링) [문제](https://www.acmicpc.net/problem/11726) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/11726.cpp)
+  - 1935(후위 표기식2) [문제](https://www.acmicpc.net/problem/1935) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/1935.cpp)
+  - 1874(스택 수열) [문제](https://www.acmicpc.net/problem/1874) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/1874.cpp)
+
+- S4
+  - 1021(회전하는 큐) [문제](https://www.acmicpc.net/problem/1021) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/1021.cpp)
+  - 2164(카드2) [문제](https://www.acmicpc.net/problem/2164) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/2164.cpp)
+  - 3986(좋은 단어) [문제](https://www.acmicpc.net/problem/3986) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/3986.cpp)
+  - 10845(큐) [문제](https://www.acmicpc.net/problem/10845) | [py](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/10845.py)
+  - 18258(큐2) [문제](https://www.acmicpc.net/problem/18258) | [py](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/18258.py)
+  - 10866(덱) [문제](https://www.acmicpc.net/problem/10866) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/10866.cpp)
+  - 9012(괄호) [문제](https://www.acmicpc.net/problem/9012) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/9012.cpp)
+  - 10828(스택) [문제](https://www.acmicpc.net/problem/10828) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/10828.cpp)
+  - 10989(수 정렬하기 3) [문제](https://www.acmicpc.net/problem/10989) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/10989.cpp)
+- S5
+  - 2748(피보나치 수 2) [문제](https://www.acmicpc.net/problem/2748) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/2748.cpp)
+  - 17509( And the Winner Is... Ourselves!) [문제](https://www.acmicpc.net/problem/17509) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/17509.cpp)
+  - 1315(그룹 단어 체커) [문제](https://www.acmicpc.net/problem/1315) | [js](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/1315.js)
+  - 2609(최대공약수와 최소공배수) [문제](https://www.acmicpc.net/problem/2609) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/2609.cpp)
+  - 2941(크로아티아 알파벳) [문제](https://www.acmicpc.net/problem/2941) | [py](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/2941.py)
+  - 4796(캠핑) [문제](https://www.acmicpc.net/problem/4796) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/4796.cpp)
