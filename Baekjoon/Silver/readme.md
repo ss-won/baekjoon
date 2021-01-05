@@ -38,6 +38,7 @@
   - 1912(연속합) [문제](https://www.acmicpc.net/problem/1912) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/1912.cpp)
   - 18870(좌표 압축) [문제](https://www.acmicpc.net/problem/18870) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/18870.cpp)
   - 2841(외계인의 기타 연주) [문제](https://www.acmicpc.net/problem/2841) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/2841.cpp)
+  - 2644(촌수계산) [문제](https://www.acmicpc.net/problem/2644) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/2644.cpp)
 - S3
 
   - 1449(수리공 항승) [문제](https://www.acmicpc.net/problem/1449) | [cpp](https://github.com/ss-won/For-Coding-Test/tree/master/Baekjoon/Silver/code/1449.cpp)
