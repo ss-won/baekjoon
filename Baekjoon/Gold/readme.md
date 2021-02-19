@@ -40,6 +40,7 @@
   - 2448(별찍기 - 11) [문제](https://www.acmicpc.net/problem/2448) | [cpp](https://github.com/ss-won/baekjoon/tree/master/Baekjoon/Gold/code/2448.cpp)
   - 2580(스도구) [문제](https://www.acmicpc.net/problem/2580) | [cpp](https://github.com/ss-won/baekjoon/tree/master/Baekjoon/Gold/code/2580.cpp)
   - 16397(탈출) [문제](https://www.acmicpc.net/problem/16397) | [cpp](https://github.com/ss-won/baekjoon/tree/master/Baekjoon/Gold/code/16397.cpp)
+  - 13913(숨바꼭질 4) [문제](https://www.acmicpc.net/problem/13913) | [cpp](https://github.com/ss-won/baekjoon/tree/master/Baekjoon/Gold/code/13913.cpp)
 - G5
   - 10026(적록색약) [문제](https://www.acmicpc.net/problem/10026) | [cpp](https://github.com/ss-won/baekjoon/tree/master/Baekjoon/Gold/code/10026.cpp)
   - 1753(최단경로) [문제](https://www.acmicpc.net/problem/1753) | [cpp](https://github.com/ss-won/baekjoon/tree/master/Baekjoon/Gold/code/1753.cpp)
