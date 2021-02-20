@@ -21,6 +21,7 @@
   - 10844(쉬운 계단 수) [문제](https://www.acmicpc.net/problem/10844) | [cpp](https://github.com/ss-won/baekjoon/tree/master/Baekjoon/Silver/code/10844.cpp)
   - 2156(포도주 시식) [문제](https://www.acmicpc.net/problem/2156) | [cpp](https://github.com/ss-won/baekjoon/tree/master/Baekjoon/Silver/code/2156.cpp)
   - 16925(문자열 추측) [문제](https://www.acmicpc.net/problem/16925) | [cpp](https://github.com/ss-won/baekjoon/tree/master/Baekjoon/Silver/code/16925.cpp)
+  - 7569(토마토) [문제](https://www.acmicpc.net/problem/7569) | [cpp](https://github.com/ss-won/baekjoon/tree/master/Baekjoon/Silver/code/7569.cpp)
 - S2
   - 16500(문자열 판별) [문제](https://www.acmicpc.net/problem/16500) | [cpp](https://github.com/ss-won/baekjoon/tree/master/Baekjoon/Silver/code/16500.cpp)
   - 11724(연결 요소의 개수) [문제](https://www.acmicpc.net/problem/11724) | [cpp](https://github.com/ss-won/baekjoon/tree/master/Baekjoon/Silver/code/11724.cpp)
